@@ -1,4 +1,4 @@
-<b>Faswan Festival - Originally made for STRPWFL Roleplay by KNJGH</b>
+<b>Faswan Festival - Originally made for STRPWFL Roleplay</b>
 <br></br>
 A festival stage dedicated to our one and only savior, Faswan. The famous GTA 5 Horse. Made for FiveM.
 All files are accessible so you'll be able to change the banners if you like. 
@@ -6,11 +6,6 @@ All files are accessible so you'll be able to change the banners if you like.
 <b>INSTALLATION:</b>
 Just drag and drop the "STRPWFLRP-Faswan_Festival" folder into your FiveM [Resources] and make sure to add "ensure STRPWFLRP-Faswan_Festival" to your server.cfg
 <br></br>
-If you like this mod, feel free to give some credits to me (tiktok: @koendestrpwfl) or to my server (STRPWFL Roleplay)
-<br></br>
-Follow me on tiktok: @koendestrpwfl
-<br></br>
-Join STRPWFL Roleplay via https://www.strpwfl.nl/
 
 ![hypnonema](https://user-images.githubusercontent.com/28997723/188271099-491ad8b2-d366-43a9-bd6a-05a404a53c3e.jpg)
 
